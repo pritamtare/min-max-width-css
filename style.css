@@ -1,0 +1,30 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+.main{
+    width:100%;
+    background-color: cyan;
+}
+
+.container{
+    width:90%;
+    margin:0 auto;
+    background-color: rgb(0, 5, 10);
+    max-width: 1140px;
+    /* min-width:500pxd */
+}
+
+.wrapper{
+    width:99%;
+    background-color: pink;
+    margin:0 auto;
+}
+
+img{
+    width:100%;
+    max-width: 90%;
+}
